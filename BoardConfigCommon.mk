@@ -7,9 +7,6 @@
 COMMON_PATH := device/xiaomi/sdm439-common
 
 # APEX
-OVERRIDE_TARGET_FLATTEN_APEX := true
-
-# APEX
 DEXPREOPT_GENERATE_APEX_IMAGE := true
 
 # Architecture
